@@ -1,5 +1,7 @@
 # BookStoreV2
 
-Run somecode /br
-php artisan migrate /br
+Run somecode 
+
+php artisan migrate 
+
 php artisan db:seed --Class=DatabaseSeeder
